@@ -28,6 +28,12 @@ I built a domain-specific QA system for Canadian corporate tax documents using a
 
 The clearest conclusion from the project is that domain-specific RAG works best when the system is designed to be conservative. In other words, it should retrieve narrowly relevant passages, preserve source identity, answer concisely from retrieved evidence, and refuse when the evidence is insufficient. That design choice is especially important in corporate tax because public guidance, forms, and legislation play different roles and should not be blended carelessly. My final project is therefore best understood as a practical, public-source tax assistant for grounded retrieval and answer synthesis, not as a substitute for legal or professional tax advice. ([Canada][2])
 
+# Technologies:
+
+- Python
+- AWS SageMaker
+- Azure AI Foundry
+
 # 1. Project Overview
 
 This project is a tutorial-style technology demonstration of an LLM-assisted RAG system for domain-specific question answering over Canadian corporate tax fact documents. The course requirements emphasize that the final project should be a concrete LLM workflow with working code, clear setup instructions, results, and at least one visualization, and that it should read like a learning tool rather than a traditional research paper. My project follows that expectation by focusing on how I designed the corpus, structured the retrieval pipeline, iterated across versions and evaluated the system on curated question sets. 
