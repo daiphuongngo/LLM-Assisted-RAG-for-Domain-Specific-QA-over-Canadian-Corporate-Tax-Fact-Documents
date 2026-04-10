@@ -30,9 +30,9 @@ The clearest conclusion from the project is that domain-specific RAG works best 
 
 # Technologies:
 
-- Python
-- AWS SageMaker
-- Azure AI Foundry
+- **Python**
+- **AWS SageMaker**
+- **Azure AI Foundry**
 
 # 1. Project Overview
 
