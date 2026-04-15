@@ -246,6 +246,8 @@ At the same time, AWS exposed a real compute limitation. On a small CPU-backed S
 
 # Streamlit Chatbot Demo
 
+<img width="2549" height="1291" alt="Streamlit interface" src="https://github.com/user-attachments/assets/c7170762-fae1-439e-b616-5b9bbbb208a3" />
+
 As a deployment-oriented extension, I wrapped the reconstructed v5.2 backend in a lightweight **Streamlit chatbot application**. The app bundle included:
 
 * `app.py`
