@@ -11,6 +11,7 @@
 
 **Developer:** Dai-Phuong Ngo (Liam)  
 **Course:** CSCI E-222 Foundations of Large Language Models  
+**Academic Term:** Spring 2026
 **Program:** Master of Liberal Arts in Extension Studies, Data Science  
 **Institution:** Harvard Extension School, Harvard University  
 **Professor:** Dmitry V. Kurochkin, PhD  
@@ -1020,9 +1021,25 @@ Recommended demo order:
 1. Start in `no_llm` mode.
 2. Ask a focused rate or threshold question.
 3. Show the retrieved pages/snippets without synthesis.
+
+<img width="2553" height="1296" alt="No LLM - Q1 - Streamlit - photo 1" src="https://github.com/user-attachments/assets/5f74be2e-2145-4847-90f4-4245b30b60da" />
+
+
+<img width="2556" height="1363" alt="No LLM - Q1 - Streamlit - photo 2" src="https://github.com/user-attachments/assets/23afb7c7-b766-4845-b97b-e4f49958f14e" />
+
+<img width="2551" height="1363" alt="No LLM - Q1 - Streamlit - photo 3" src="https://github.com/user-attachments/assets/211f90d0-ccff-42a2-a11c-5f7d75882b00" />
+
 4. Switch to `azure_openai`, `openai`, or `bedrock` mode.
 5. Ask the same question.
 6. Show the generated answer beside the source evidence.
+
+<img width="2553" height="1363" alt="Bedrock - Q1 - Streamlit - photo 1" src="https://github.com/user-attachments/assets/3523e8f1-5c02-49b2-8704-7eac97d806e0" />
+
+<img width="2551" height="1356" alt="Bedrock - Q1 - Streamlit - photo 2" src="https://github.com/user-attachments/assets/c3c29523-894e-4f25-ba76-036678d51df7" />
+
+<img width="2551" height="1363" alt="Bedrock - Q1 - Streamlit - photo 3" src="https://github.com/user-attachments/assets/ad0ba83b-957a-4076-a091-07a1bbbe3b51" />
+
+
 7. Run or describe Q6 to explain why evidence should beat a bad expected label.
 
 Good demo questions:
@@ -1034,6 +1051,11 @@ What is the R&D ITC rate?
 What are the filing and payment deadlines for a corporate tax return?
 What are the notes for R&D investment tax credits?
 ```
+<img width="2556" height="1300" alt="OpenAI - Q1 - Streamlit - photo 1" src="https://github.com/user-attachments/assets/03c9f39c-601c-4011-b339-c34a65ca71ac" />
+
+<img width="2549" height="1361" alt="OpenAI - Q1 - Streamlit - photo 2" src="https://github.com/user-attachments/assets/bb149763-5b43-4e52-8b6c-9a93cdcd5bc5" />
+
+<img width="2551" height="1300" alt="OpenAI - Q1 - Streamlit - photo 3" src="https://github.com/user-attachments/assets/321ce781-585c-44b8-9bf1-4275e4bd82c4" />
 
 Simple demo message:
 
