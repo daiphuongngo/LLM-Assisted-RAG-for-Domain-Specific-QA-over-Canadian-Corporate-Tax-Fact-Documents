@@ -1,0 +1,1043 @@
+question,question_type,expected_pages,expected_substrings,retrieved_pages,retrieval_hit_top1,retrieval_hit_topk,baseline_answer,baseline_hit,final_answer_short,answer_hit,citation_hit,verifier_verdict,planner_jurisdiction,planner_entity,planner_topic,n_candidates,top1_final_score,full_answer
+What is the 2025 combined tax rate for a CCPC in Quebec on small business income?,rate,[61],['12.2'],"[61, 61, 61, 60, 72, 68]",True,True,11.0%,False,12.2%,True,True,supported_exact,quebec,ccpc,rate,25,0.8970144761681557,"12.2%
+
+Evidence
+- [Source 1 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+- [Source 2 | p. 61] Row label CCPC) that is. 2025 KPMG LLP, a Canadian: CCPC) that is; limited liability partne: ultimately co; rship and: ntroll; a member firm: ed, in law; of the KPMG net: or in fac
+- [Source 3 | p. 61] Row label a CCPC if the. 2025 KPMG LLP, a Canadian: a CCPC if the; limited liability partne: corporation i; rship and: s a pr; a member firm: ivate corp; of the KPMG net: oration a
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined tax rate for a CCPC in Ontario on small business income?,rate,[61],['12.2'],"[61, 61, 61, 60, 72, 68]",True,True,11.0%,False,12.2%,True,True,supported_exact,ontario,ccpc,rate,25,0.9235090013623237,"12.2%
+
+Evidence
+- [Source 1 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+- [Source 2 | p. 61] Row label CCPC) that is. 2025 KPMG LLP, a Canadian: CCPC) that is; limited liability partne: ultimately co; rship and: ntroll; a member firm: ed, in law; of the KPMG net: or in fac
+- [Source 3 | p. 61] Row label a CCPC if the. 2025 KPMG LLP, a Canadian: a CCPC if the; limited liability partne: corporation i; rship and: s a pr; a member firm: ivate corp; of the KPMG net: oration a
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined tax rate for a CCPC in Manitoba on small business income?,rate,[61],['9.0'],"[61, 60, 61, 72, 61, 61]",True,True,11.0%,False,9.0%,True,True,supported_exact,manitoba,ccpc,rate,17,0.9210440260052682,"9.0%
+
+Evidence
+- [Source 1 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+- [Source 2 | p. 60] Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 20261 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5 Federal
+- [Source 3 | p. 61] Row label Manitoba. 2025 KPMG LLP, a Canadian: Manitoba; of the KPMG net: 9.0; ent member: 27.0; : 50.7.
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined tax rate for a CCPC in Saskatchewan on small business income?,rate,[61],['10.0'],"[61, 68, 62, 60, 61, 61]",True,True,11.0%,False,10.0%,True,True,supported_exact,saskatchewan,ccpc,rate,40,0.8806012303113937,"10.0%
+
+Evidence
+- [Source 1 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+- [Source 2 | p. 68] Notes, continued (10) Saskatchewan cancelled the previously scheduled increase of the province’s small business income tax rate to 2% on July 1, 2025. As a result, the province’s s
+- [Source 3 | p. 62] Notes, continued (2) The small business income threshold is $600,000 in Saskatchewan. Therefore, Saskatchewan’s combined income tax rate on active business income between $500,000
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined tax rate for a CCPC in Alberta on small business income?,rate,[61],['11.0'],"[61, 60, 72, 61, 61, 61]",True,True,11.0%,True,11.0%,True,True,supported_exact,Alberta,CCPC,tax rates,17,0.8111626731801033,"11.0%
+
+Evidence
+- [Source 1 | p. 61] 500,0002,4
+Active
+Business
+Income3,4
+Investment
+Income5
+Provincial rates
+British Columbia
+11.0%
+27.0%
+50.7%
+Alberta
+11.0
+23.0
+46.7
+Saskatchewan9
+10.0
+27.0
+50.7
+Manitoba
+9.0
+27.0
+50.7
+Ontario
+12.2
+26.5
+50.2
+Quebec10
+12.2
+26.5
+
+- [Source 1 | p. 61] British Columbia -> 11.0%
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined tax rate for a CCPC in British Columbia on small business income?,rate,[61],['11.0'],"[61, 61, 60, 72, 61, 61]",True,True,11.0%,True,11.0%,True,True,supported_exact,british columbia,ccpc,rate,20,0.9177280462861063,"11.0%
+
+Evidence
+- [Source 1 | p. 61] British Columbia -> 11.0%
+- [Source 1 | p. 61] 500,0002,4
+Active
+Business
+Income3,4
+Investment
+Income5
+Provincial rates
+British Columbia
+11.0%
+27.0%
+50.7%
+Alberta
+11.0
+23.0
+46.7
+Saskatchewan9
+10.0
+27.0
+50.7
+Manitoba
+9.0
+27.0
+50.7
+Ontario
+12.2
+26.5
+50.2
+Quebec10
+12.2
+26.5
+
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined tax rate for a CCPC in Quebec on active business income above the small business limit?,threshold,[61],['26.5'],"[61, 68, 60, 72, 61, 61]",True,True,"$50,000,024,000",False,26.5%,True,True,supported_exact,quebec,ccpc,rate,48,0.8885722038030623,"26.5%
+
+Evidence
+- [Source 1 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+- [Source 2 | p. 68] me to 15% (from 16%) and increased the province’s small business income threshold to $600,000 (from $500,000) effective July 1, 2025. As a result of the increased small business in
+- [Source 3 | p. 60] Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 20261 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5 Federal
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined tax rate for a CCPC in Ontario on investment income?,rate,[61],['50.2'],"[61, 61, 72, 61, 61, 61]",True,True,11.0%,False,50.2%,True,True,supported_exact,Ontario,CCPC,tax rates,9,0.816853284304142,"50.2%
+
+Evidence
+- [Source 1 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+- [Source 2 | p. 61] Row label Investment in. 2025 KPMG LLP, a Canadian: Investment in; limited liability partne: come earned; rship and: by a; a member firm: “substant; of the KPMG net: ive CCPC”; wor
+- [Source 3 | p. 72] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a General Corporation—2025 and 2026 Active Business Income2 Investment Income3 M&P Income Provincial rate
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined tax rate for a CCPC in Quebec on investment income?,rate,[61],['50.2'],"[61, 72, 61, 61, 61, 61]",True,True,11.0%,False,50.2%,True,True,supported_exact,quebec,ccpc,rate,9,0.9011048391342162,"50.2%
+
+Evidence
+- [Source 1 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+- [Source 2 | p. 72] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a General Corporation—2025 and 2026 Active Business Income2 Investment Income3 M&P Income Provincial rate
+- [Source 3 | p. 61] Row label Investment in. 2025 KPMG LLP, a Canadian: Investment in; limited liability partne: come earned; rship and: by a; a member firm: “substant; of the KPMG net: ive CCPC”; wor
+
+Citations: (p. 61)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 federal tax rate on investment income earned by a CCPC?,rate,[60],['38.7'],"[60, 72, 61, 76, 66, 93]",True,True,38.0%,False,38.7%,True,True,supported_exact,Canada,CCPC (Canadian Controlled Private Corporation),tax rates,19,0.6545590026497842,"38.7%
+
+Evidence
+- [Source 1 | p. 60] Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 20261 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5 Federal
+- [Source 2 | p. 72] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a General Corporation—2025 and 2026 Active Business Income2 Investment Income3 M&P Income Provincial rate
+- [Source 3 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+
+Citations: (p. 60)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 federal tax rate on active business income earned by a CCPC above the small business limit?,threshold,[60],['15.0'],"[60, 70, 62, 68, 64, 61]",True,True,"$50,000,024,000",False,15.0%,True,True,supported_exact,federal,ccpc,rate,48,0.7917099754405023,"15.0%
+
+Evidence
+- [Source 1 | p. 60] Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 20261 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5 Federal
+- [Source 2 | p. 70] Notes (1) The small business income thresholds shown in the table apply to active business income earned by a Canadian-controlled private corporation (CCPC) that is eligible for th
+- [Source 3 | p. 62] e thresholds. (3) The general corporate tax rate applies to active business income earned in excess of the small business income threshold. See the table “Small Business Income Thr
+
+Citations: (p. 60)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 federal tax rate on small business income earned by a CCPC?,rate,[60],['9.0'],"[60, 70, 62, 61, 67, 62]",True,True,38.0%,False,9.0%,True,True,supported_exact,Canada,CCPC (Canadian Certified Professional Accountant),tax rates,36,0.6817764326691628,"9.0%
+
+Evidence
+- [Source 1 | p. 60] Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 20261 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5 Federal
+- [Source 2 | p. 70] Notes (1) The small business income thresholds shown in the table apply to active business income earned by a Canadian-controlled private corporation (CCPC) that is eligible for th
+- [Source 3 | p. 62] e thresholds. (3) The general corporate tax rate applies to active business income earned in excess of the small business income threshold. See the table “Small Business Income Thr
+
+Citations: (p. 60)
+
+Confidence: high
+Verifier: supported_exact"
+What is the small business income threshold in Nova Scotia for 2025 and beyond?,threshold,[69],['700'],"[69, 69, 69, 69, 69, 69]",True,True,$0,False,"$700,000",True,True,supported_exact,Nova Scotia,small businesses,income thresholds,48,0.8383024249911308,"$700,000
+
+Evidence
+- [Source 1 | p. 69] Small Business Income Thresholds for 2025 and Beyond1 2025 and beyond ($000) Federal $500 British Columbia Alberta Saskatchewan Manitoba Ontario Quebec2 New Brunswick Nova Scotia3
+- [Source 2 | p. 69] Row label Nova Scotia3. ms affiliated with KPMG: Nova Scotia3; : 5; : 00/700.
+- [Source 3 | p. 69] |New Brunswick|500| |---|---|
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the small business income threshold in Saskatchewan for 2025 and beyond?,threshold,[69],['600'],"[69, 69, 69, 69, 69, 62]",True,True,$0,False,"$600,000",True,True,supported_exact,Saskatchewan,small businesses,income thresholds,48,0.8557708111643791,"$600,000
+
+Evidence
+- [Source 4 | p. 69] be|
+||||($000)|
+|Federal|||$500|
+|British Columb|ia||500|
+|Alberta|||500|
+|Saskatchewan|||600|
+|Manitoba|||500|
+|Ontario|||500|
+|Quebec2|||500|
+|New Brunswic|k||500|
+|Nova Scotia3||5|00/700|
+|Prince Edward|Island4|5|00/600|
+- [Source 6 | p. 62] Notes, continued
+(2) The small business income threshold is $600,000 in Saskatchewan. Therefore,
+Saskatchewan’s combined income tax rate on active business income between
+$500,000 and $600,000 is 16
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the small business income threshold in Prince Edward Island for 2025 and beyond?,threshold,[69],['600'],"[69, 69, 70, 69, 68, 69]",True,True,"$500,000",False,"$600,000",True,True,supported_exact,Prince Edward Island,small businesses,income thresholds,48,0.7808929889392853,"$600,000
+
+Evidence
+- [Source 3 | p. 70] (4) Prince Edward Island increased the province’s small business income threshold to -> $600,000
+- [Source 3 | p. 70] 025.
+(4) Prince Edward Island increased the province’s small business income threshold to
+$600,000 (from $500,000) effective July 1, 2025.
+Small Business Income Thresholds
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the federal small business income threshold for 2025 and beyond?,threshold,[69],['500'],"[69, 69, 69, 69, 69, 69]",True,True,"$500,000",True,"$500,000",True,True,supported_exact,United States,federal government,small business income thresholds,19,0.8340160220932961,"$500,000
+
+Evidence
+- [Source 1 | p. 69] Small Business Income Thresholds for 2025 and Beyond1
+2025 and beyond
+($000)
+Federal
+$500
+British Columbia
+Alberta
+Saskatchewan
+Manitoba
+Ontario
+Quebec2
+New Brunswick
+Nova Scotia3
+500/700
+Prince Edward Island4
+500/600
+N
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the Ontario small business income threshold for 2025 and beyond?,threshold,[69],['500'],"[69, 69, 69, 69, 69, 69]",True,True,$0,False,"$500,000",True,True,supported_exact,Ontario,small businesses,income thresholds,48,0.8744985828304291,"$500,000
+
+Evidence
+- [Source 1 | p. 69] Small Business Income Thresholds for 2025 and Beyond1
+2025 and beyond
+($000)
+Federal
+$500
+British Columbia
+Alberta
+Saskatchewan
+Manitoba
+Ontario
+Quebec2
+New Brunswick
+Nova Scotia3
+500/700
+Prince Edward Island4
+500/600
+N
+- [Source 4 | p. 69] sin|ess Income Thresholds for 2025 and Beyon|d|1|
+||2025||and be|
+||||($000)|
+|Federal|||$500|
+|British Columb|ia||500|
+|Alberta|||500|
+|Saskatchewan|||600|
+|Manitoba|||500|
+|Ontario|||500|
+|Quebec2|||500|
+|New Brunswic|k||
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the Quebec small business income threshold for 2025 and beyond?,threshold,[69],['500'],"[69, 69, 69, 69, 69, 69]",True,True,$0,False,"$500,000",True,True,supported_exact,Quebec,small businesses,income thresholds,48,0.8357876603078843,"$500,000
+
+Evidence
+- [Source 1 | p. 69] Small Business Income Thresholds for 2025 and Beyond1
+2025 and beyond
+($000)
+Federal
+$500
+British Columbia
+Alberta
+Saskatchewan
+Manitoba
+Ontario
+Quebec2
+New Brunswick
+Nova Scotia3
+500/700
+Prince Edward Island4
+500/600
+N
+- [Source 5 | p. 69] sin|ess Income Thresholds for 2025 and Beyon|d|1|
+||2025||and be|
+||||($000)|
+|Federal|||$500|
+|British Columb|ia||500|
+|Alberta|||500|
+|Saskatchewan|||600|
+|Manitoba|||500|
+|Ontario|||500|
+|Quebec2|||500|
+|New Brunswic|k||
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the Manitoba small business income threshold for 2025 and beyond?,threshold,[69],['500'],"[69, 69, 69, 69, 69, 69]",True,True,$0,False,"$500,000",True,True,supported_exact,Manitoba,small businesses,income thresholds,48,0.8777155042362215,"$500,000
+
+Evidence
+- [Source 1 | p. 69] Small Business Income Thresholds for 2025 and Beyond1
+2025 and beyond
+($000)
+Federal
+$500
+British Columbia
+Alberta
+Saskatchewan
+Manitoba
+Ontario
+Quebec2
+New Brunswick
+Nova Scotia3
+500/700
+Prince Edward Island4
+500/600
+N
+- [Source 4 | p. 69] sin|ess Income Thresholds for 2025 and Beyon|d|1|
+||2025||and be|
+||||($000)|
+|Federal|||$500|
+|British Columb|ia||500|
+|Alberta|||500|
+|Saskatchewan|||600|
+|Manitoba|||500|
+|Ontario|||500|
+|Quebec2|||500|
+|New Brunswic|k||
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the Alberta small business income threshold for 2025 and beyond?,threshold,[69],['500'],"[69, 69, 69, 69, 69, 69]",True,True,$0,False,"$500,000",True,True,supported_exact,Alberta,small businesses,income thresholds,48,0.8712182401323318,"$500,000
+
+Evidence
+- [Source 1 | p. 69] Small Business Income Thresholds for 2025 and Beyond1
+2025 and beyond
+($000)
+Federal
+$500
+British Columbia
+Alberta
+Saskatchewan
+Manitoba
+Ontario
+Quebec2
+New Brunswick
+Nova Scotia3
+500/700
+Prince Edward Island4
+500/600
+N
+- [Source 5 | p. 69] sin|ess Income Thresholds for 2025 and Beyon|d|1|
+||2025||and be|
+||||($000)|
+|Federal|||$500|
+|British Columb|ia||500|
+|Alberta|||500|
+|Saskatchewan|||600|
+|Manitoba|||500|
+|Ontario|||500|
+|Quebec2|||500|
+|New Brunswic|k||
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the British Columbia small business income threshold for 2025 and beyond?,threshold,[69],['500'],"[69, 69, 69, 69, 69, 69]",True,True,$0,False,"$500,000",True,True,supported_exact,British Columbia,small business,income thresholds,48,0.91551,"$500,000
+
+Evidence
+- [Source 1 | p. 69] Small Business Income Thresholds for 2025 and Beyond1
+2025 and beyond
+($000)
+Federal
+$500
+British Columbia
+Alberta
+Saskatchewan
+Manitoba
+Ontario
+Quebec2
+New Brunswick
+Nova Scotia3
+500/700
+Prince Edward Island4
+500/600
+N
+- [Source 4 | p. 69] sin|ess Income Thresholds for 2025 and Beyon|d|1|
+||2025||and be|
+||||($000)|
+|Federal|||$500|
+|British Columb|ia||500|
+|Alberta|||500|
+|Saskatchewan|||600|
+|Manitoba|||500|
+|Ontario|||500|
+|Quebec2|||500|
+|New Brunswic|k||
+
+Citations: (p. 69)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined federal and provincial tax rate for income earned by a general corporation in Alberta on active business income?,rate,[72],['23.0'],"[72, 61, 71, 74, 60, 61]",True,True,27.0%,False,23.0%,True,True,supported_exact,federal,general corporation,rate,29,0.9320772516179084,"23.0%
+
+Evidence
+- [Source 1 | p. 72] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a General Corporation—2025 and 2026 Active Business Income2 Investment Income3 M&P Income Provincial rate
+- [Source 2 | p. 61] Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC—2025 and 2026 Small Business Income up to $500,0002,4 Active Business Income3,4 Investment Income5
+- [Source 3 | p. 71] Federal and Provincial/Territorial Tax Rates for Income Earned by a General Corporation—2025 and 20261 Active Business Income2 Investment Income3 M&P Income Federal rates General c
+
+Citations: (p. 72)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined federal and provincial tax rate for income earned by a general corporation in Ontario on active business income?,rate,[72],['26.5'],"[72, 61, 71, 72, 61, 60]",True,True,27.0%,False,26.5%,True,True,supported,Ontario,general corporation,tax rates,42,0.8468675102496147,"27.0%
+
+Evidence
+- [Source 1 | p. 72] 6
+Active
+Business
+Income2
+Investment
+Income3
+M&P
+Income
+Provincial rates
+British Columbia
+27.0%
+27.0%
+27.0%
+Alberta
+23.0
+23.0
+23.0
+Saskatchewan6
+25.0
+27.0
+27.0
+Manitoba
+27.0
+27.0
+27.0
+Ontario7
+25.0
+26.5
+26.5
+Quebec
+26.5
+26.5
+
+
+Citations: (p. 72)
+
+Confidence: medium
+Verifier: supported"
+What is the 2025 combined federal and provincial tax rate for income earned by a general corporation in Quebec on active business income?,rate,[72],['26.5'],"[72, 61, 71, 72, 74, 61]",True,True,27.0%,False,26.5%,True,True,supported_exact,federal,general corporation,rate,40,0.9309655975747106,"26.5%
+
+Evidence
+- [Source 4 | p. 72] Quebec -> 26.5
+- [Source 4 | p. 72] Ontario7 -> 26.5
+
+Citations: (p. 72)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined federal and provincial tax rate for income earned by a general corporation in British Columbia on active business income?,rate,[72],['27.0'],"[72, 61, 71, 61, 60, 74]",True,True,27.0%,True,27.0%,True,True,supported,federal,general corporation,rate,32,0.9260798257637024,"27.0%
+
+Evidence
+- [Source 1 | p. 72] 6
+Active
+Business
+Income2
+Investment
+Income3
+M&P
+Income
+Provincial rates
+British Columbia
+27.0%
+27.0%
+27.0%
+Alberta
+23.0
+23.0
+23.0
+Saskatchewan6
+25.0
+27.0
+27.0
+Manitoba
+27.0
+27.0
+27.0
+Ontario7
+25.0
+26.5
+26.5
+Quebec
+26.5
+26.5
+
+
+Citations: (p. 72)
+
+Confidence: high
+Verifier: supported"
+What is the 2025 combined federal and provincial tax rate for income earned by a general corporation in Saskatchewan on active business income?,rate,[72],['27.0'],"[72, 61, 62, 72, 71, 68]",True,True,27.0%,True,27.0%,True,True,supported,Saskatchewan,general corporation,tax rates,48,0.8618816859793662,"27.0%
+
+Evidence
+- [Source 1 | p. 72] 6
+Active
+Business
+Income2
+Investment
+Income3
+M&P
+Income
+Provincial rates
+British Columbia
+27.0%
+27.0%
+27.0%
+Alberta
+23.0
+23.0
+23.0
+Saskatchewan6
+25.0
+27.0
+27.0
+Manitoba
+27.0
+27.0
+27.0
+Ontario7
+25.0
+26.5
+26.5
+Quebec
+26.5
+26.5
+
+
+Citations: (p. 72)
+
+Confidence: high
+Verifier: supported"
+What is the 2025 combined federal and provincial tax rate for income earned by a general corporation in Manitoba on active business income?,rate,[72],['27.0'],"[72, 61, 71, 72, 61, 61]",True,True,27.0%,True,27.0%,True,True,supported_exact,Manitoba,general corporation,tax rates,34,0.8149768631958961,"27.0%
+
+Evidence
+- [Source 1 | p. 72] 6
+Active
+Business
+Income2
+Investment
+Income3
+M&P
+Income
+Provincial rates
+British Columbia
+27.0%
+27.0%
+27.0%
+Alberta
+23.0
+23.0
+23.0
+Saskatchewan6
+25.0
+27.0
+27.0
+Manitoba
+27.0
+27.0
+27.0
+Ontario7
+25.0
+26.5
+26.5
+Quebec
+26.5
+26.5
+
+- [Source 1 | p. 72] British Columbia -> 27.0%
+
+Citations: (p. 72)
+
+Confidence: high
+Verifier: supported_exact"
+What is the 2025 combined federal and provincial tax rate for income earned by a general corporation in Ontario on investment income?,rate,[72],['26.5'],"[72, 61, 71, 61, 61, 61]",True,True,27.0%,False,26.5%,True,True,supported,federal,general corporation,rate,48,0.8986444480538369,"27.0%
+
+Evidence
+- [Source 1 | p. 72] 6
+Active
+Business
+Income2
+Investment
+Income3
+M&P
+Income
+Provincial rates
+British Columbia
+27.0%
+27.0%
+27.0%
+Alberta
+23.0
+23.0
+23.0
+Saskatchewan6
+25.0
+27.0
+27.0
+Manitoba
+27.0
+27.0
+27.0
+Ontario7
+25.0
+26.5
+26.5
+Quebec
+26.5
+26.5
+
+
+Citations: (p. 71)
+
+Confidence: medium
+Verifier: supported"
+What is the 2025 combined federal and provincial tax rate for income earned by a general corporation in Quebec on investment income?,rate,[72],['26.5'],"[72, 61, 71, 61, 72, 61]",True,True,27.0%,False,26.5%,True,True,supported_exact,federal,general corporation,rate,34,0.901824977707863,"26.5%
+
+Evidence
+- [Source 5 | p. 72] Quebec -> 26.5
+- [Source 5 | p. 72] Ontario7 -> 26.5
+
+Citations: (p. 72)
+
+Confidence: high
+Verifier: supported_exact"
+"What is the Quebec compensation tax rate for banks, loan or trust corporations, and corporations trading in securities?",rate,[80],['2.80'],"[80, 80, 80, 80, 80, 80]",True,True,2.80%,True,2.80%,True,True,supported_exact,quebec,,rate,26,0.9238688288402558,"2.80%
+
+Evidence
+- [Source 1 | p. 80] Banks, loan or trust corporations, and corporations trading in securities2 -> 2.80%
+- [Source 1 | p. 80] lation
+of Tax1
+Banks, loan or trust corporations, and corporations trading in securities2
+2.80%
+Insurance corporations subject to Quebec capital tax
+0.30%
+Credit and savings unions3
+2.20%
+Independent loan corporations, indepe
+
+Citations: (p. 80)
+
+Confidence: high
+Verifier: supported_exact"
+What is the Quebec compensation tax rate for credit and savings unions?,rate,[80],['2.20'],"[80, 80, 80, 80, 80, 80]",True,True,2.80%,False,2.20%,True,True,supported_exact,Quebec,credit and savings unions,tax rates,26,0.8998700000000001,"2.20%
+
+Evidence
+- [Source 1 | p. 80] Credit and savings unions3 -> 2.20%
+- [Source 1 | p. 80] 80%
+Insurance corporations subject to Quebec capital tax
+0.30%
+Credit and savings unions3
+2.20%
+Independent loan corporations, independent trust corporations and
+independent corporations trading in securities4
+0.90%
+Other fin
+
+Citations: (p. 80)
+
+Confidence: high
+Verifier: supported_exact"
+"For qualifying CCPCs, what federal R&D investment tax credit rate applies up to the expenditure limit?",threshold,[81],['35'],"[81, 81, 81, 86, 81, 81]",True,True,$35,True,35%,True,True,supported_exact,US,CCPC,tax credits,35,0.8637037950015068,"35%
+
+Evidence
+- [Source 2 | p. 81] Qualifying CCPCs | itc rate up to expenditure limit | 35%
+
+Citations: (p. 81)
+
+Confidence: high
+Verifier: supported_exact"
+"For qualifying CCPCs, what federal R&D investment tax credit rate applies above the expenditure limit?",threshold,[81],['15'],"[81, 81, 81, 86, 81, 86]",True,True,$10,False,15%,True,True,supported_exact,US,CCPC,tax credits,33,0.869156244544983,"15%
+
+Evidence
+- [Source 2 | p. 81] Qualifying CCPCs | itc rate in excess of expenditure limit | 15%
+
+Citations: (p. 81)
+
+Confidence: high
+Verifier: supported_exact"
+What is the net after-tax cost of performing R&D for CCPCs in Quebec?,threshold,"[90, 91]",['316'],"[90, 90, 90, 90, 90, 90]",True,True,"$1,000,000",False,$316,True,True,supported_exact,Quebec,CCPCs,R&D costs,48,0.7407503772640229,"$316
+
+Evidence
+- [Source 1 | p. 90] Net After-Tax Cost of Performing Research and Development (R&D) CCPCs1 B.C. Alta.2 Sask. Man. Ont.3 R&D expenditures $1,000 $1,000 $1,000 $1,000 $1,000 Provincial/territorial ITC (
+- [Source 2 | p. 90] Row label CCPCs1. 2025 KPMG LLP, a Canadian limi: CCPCs1; nd a member firm of t: B.C.; he KPMG network: Alta.2; of independent mem: Sask.; ber: Man.; : Ont.3.
+- [Source 3 | p. 90] |CCPCs1|B.C.|Alta.2|Sask.|Man.|Ont.3| |---|---|---|---|---|---|
+
+Citations: (p. 91)
+
+Confidence: high
+Verifier: supported_exact"
+What is the net after-tax cost of performing R&D for CCPCs in Ontario?,threshold,[90],['354'],"[90, 90, 90, 90, 90, 91]",True,True,"$1,000,000",False,$354,True,True,supported_exact,Ontario,CCPCs,R&D costs,48,0.7374754171037674,"$354
+
+Evidence
+- [Source 1 | p. 90] Net after-tax cost of R&D | ont.3 | $354
+
+Citations: (p. 90)
+
+Confidence: high
+Verifier: supported_exact"
+How often do eligible CCPCs generally pay federal corporate income tax instalments?,frequency,[98],['quarterly'],"[98, 98, 101, 98, 101, 99]",True,True,quarterly,True,quarterly,True,True,supported_exact,Canada,CCPC (Canadian Corporation Payroll Company),tax payments,10,0.7319784643864632,"quarterly
+
+Evidence
+- [Source 1 | p. 98] e than
+$3,000. However, eligible Canadian-controlled private corporations (CCPCs) may pay
+quarterly tax instalments if certain criteria are met (see note (3)).
+A new corporation is not required to make instalment payments in its 
+- [Source 2 | p. 98] 
+Payment Due Dates2
+General corporations
+$3,000
+Monthly
+CCPCs
+Eligible3
+Other
+3,000
+3,000
+Quarterly
+Monthly
+Tax Instalment Choices
+Tax Instalment
+Choices
+General
+Monthly Payments
+Eligible CCPC
+Quarterly Payments
+Current year esti
+
+Citations: (p. 98)
+
+Confidence: high
+Verifier: supported_exact"
+How often do other CCPCs generally pay federal corporate income tax instalments?,frequency,[98],['monthly'],"[98, 98, 98, 101, 101, 100]",True,True,quarterly,False,monthly,True,True,supported_exact,Canada,CCPC,tax payments,9,0.7039752653455734,"monthly
+
+Evidence
+- [Source 1 | p. 98]  Due Dates
+Type of Corporation
+Thresholds1
+Payment Due Dates2
+General corporations
+$3,000
+Monthly
+CCPCs
+Eligible3
+Other
+3,000
+3,000
+Quarterly
+Monthly
+Tax Instalment Choices
+Tax Instalment
+Choices
+General
+Monthly Payments
+Eligib
+- [Source 3 | p. 98] |CCPCs
+Eligible3
+Other|3,000
+3,000|Quarterly
+Monthly|
+|---|---|---|
+
+Citations: (p. 98)
+
+Confidence: high
+Verifier: supported_exact"
+How often do general corporations generally pay federal corporate income tax instalments?,frequency,[98],['monthly'],"[98, 98, 101, 99, 101, 98]",True,True,quarterly,False,monthly,True,True,supported_exact,United States,general corporation,tax payments,8,0.7404122008824349,"monthly
+
+Evidence
+- [Source 1 | p. 98]  Due Dates
+Type of Corporation
+Thresholds1
+Payment Due Dates2
+General corporations
+$3,000
+Monthly
+CCPCs
+Eligible3
+Other
+3,000
+3,000
+Quarterly
+Monthly
+Tax Instalment Choices
+Tax Instalment
+Choices
+General
+Monthly Payments
+Eligib
+- [Source 3 | p. 101] ation
+Threshold2
+Payment
+Due Dates
+Threshold2
+Payment
+Due Dates
+General corporation
+2,000
+Monthly3
+3,000
+Monthly3
+2,000
+2,000
+Exempt
+Monthly3
+3,000
+3,000
+Quarterly4
+CCPC
+Eligible5,6
+Other
+Monthly3
+Notes
+(1) Alberta and Quebec a
+
+Citations: (p. 98)
+
+Confidence: high
+Verifier: supported_exact"
+What is the filing deadline for federal corporate income tax returns?,deadline,[102],['six months after year-end'],"[102, 102, 102, 102, 102, 102]",True,True,within six months after year-end,True,within six months after year-end,True,True,supported_exact,United States,federal government,tax law,48,0.8744550000000001,"within six months after year-end
+
+Evidence
+- [Source 1 | p. 102] federal corporate income tax returns -> within six months after year-end
+- [Source 1 | p. 102] es
+Filing Deadline
+Payment Deadline
+Federal Corporate
+income tax returns1
+Returns are due within six
+months after year-end
+The balance of taxes payable
+is due within two months after
+year-end
+For certain CCPCs, the deadline
+is extended to three months2
+
+Citations: (p. 102)
+
+Confidence: high
+Verifier: supported_exact"
+What is the filing deadline for Quebec corporate income tax returns?,deadline,[102],['six months after year-end'],"[102, 102, 102, 102, 102, 102]",True,True,within six months after year-end,True,within six months after year-end,True,True,supported_exact,Quebec,corporate income tax returns,tax deadlines,48,0.8764099777078629,"within six months after year-end
+
+Evidence
+- [Source 1 | p. 102] quebec corporate income tax returns -> within six months after year-end
+- [Source 1 | p. 102] federal corporate income tax returns -> within six months after year-end
+
+Citations: (p. 102)
+
+Confidence: high
+Verifier: supported_exact"
+When is the balance of taxes payable due for corporations federally?,deadline,[102],['two months after year-end'],"[102, 102, 102, 102, 102, 102]",True,True,"within six
+months after year-end
+The balance of taxes payable
+is due within two months after
+year-end",False,two months after year-end,True,True,supported_exact,United States,corporations,taxes payable deadlines,42,0.8128076453304292,"two months after year-end
+
+Evidence
+- [Source 1 | p. 102] Filing and Payment Deadlines Filing Deadline Payment Deadline Federal Corporate income tax returns1 Returns are due within six months after year-end The balance of taxes payable is
+- [Source 2 | p. 102] |Alberta Corporate income tax returns|Returns are due (and must be received) within six months after year-end|The balance of taxes payable is due within two months after year-end F
+- [Source 3 | p. 102] |Other provincial Capital tax returns5|Returns are due within six months after year-end|The balance of taxes payable is due within six months after year-end| |---|---|---|
+
+Citations: (p. 102)
+
+Confidence: high
+Verifier: supported_exact"
+When is the balance of taxes payable due for certain CCPCs federally?,deadline,[102],['three months after year-end'],"[102, 102, 102, 102, 102, 99]",True,True,"within six
+months after year-end
+The balance of taxes payable
+is due within two months after
+year-end",False,three months after year-end,True,True,supported_exact,United States,CCPC,taxes,43,0.7845249777078629,"three months after year-end
+
+Evidence
+- [Source 1 | p. 102] Filing and Payment Deadlines Filing Deadline Payment Deadline Federal Corporate income tax returns1 Returns are due within six months after year-end The balance of taxes payable is
+- [Source 2 | p. 102] |Alberta Corporate income tax returns|Returns are due (and must be received) within six months after year-end|The balance of taxes payable is due within two months after year-end F
+- [Source 3 | p. 102] interest relief on existing corporate income tax balances between April 2 and June 30, 2025 (2) For federal purposes, in order to qualify for the extension, the corporation must be
+
+Citations: (p. 102)
+
+Confidence: high
+Verifier: supported_exact"
+"For payroll source deductions, when are monthly remittances due for new and regular employers?",deadline,[104],['15th day of the following month'],"[104, 104, 104, 104, 105, 104]",True,True,15th day of the following month,True,15th day of the following month,True,True,supported_exact,US,employers,payroll deductions,22,0.8852717342662811,"15th day of the following month
+
+Evidence
+- [Source 3 | p. 104] new and regular employers -> 15th day of the following month
+- [Source 2 | p. 104] |Monthly4
+New and regular employers|< $25,000|15th day of the following month|
+|---|---|---|
+
+Citations: (p. 104)
+
+Confidence: high
+Verifier: supported_exact"
+"For payroll source deductions, when are quarterly remittances due for new small employers?",deadline,[104],['15th day of the month following the end of each calendar quarter'],"[104, 104, 104, 104, 104, 105]",True,True,15th day of the following month,False,15th day of the month following the end of each calendar quarter,True,True,supported_exact,US,small employers,payroll deductions,22,0.90769,"15th day of the month following the end of each calendar quarter
+
+Evidence
+- [Source 2 | p. 104] new small employers -> 15th day of the month following the end of each calendar quarter
+
+Citations: (p. 104)
+
+Confidence: high
+Verifier: supported_exact"
+"For payroll source deductions, when are accelerated threshold 1 remittances due?",deadline,[104],['25th day of the same month'],"[104, 104, 104, 105, 104, 104]",True,True,15th day of the following month,False,25th day of the same month,True,True,supported_exact,,,rate,5,0.8907060238480569,"25th day of the same month
+
+Evidence
+- [Source 1 | p. 104] Payroll Source Deductions Type of Remitter Thresholds1 Payment Deadline2 Quarterly3 New small employers < $1,000 and perfect compliance history 15th day of the month following the
+- [Source 2 | p. 104] hich average monthly withholding amounts fall. If, for example, this amount is $25,000 or more, then all associated corporations will be considered accelerated remitters. The Canad
+- [Source 3 | p. 104] |Weekly6 Accelerated – Threshold 2|$100,000 or more|Third working day after the end of each weekly period| |---|---|---|
+
+Citations: (p. 104)
+
+Confidence: high
+Verifier: supported_exact"
+"For payroll source deductions, when are weekly remittances due for accelerated threshold 2 remitters?",deadline,[104],['Third working day after the end of each weekly period'],"[104, 104, 104, 105, 104, 104]",True,True,15th day of the following month,False,Third working day after the end of each weekly period,True,True,supported_exact,UK,Payroll Source Deductions,Remittances,5,0.8593367714214325,"Third working day after the end of each weekly period
+
+Evidence
+- [Source 1 | p. 104] |Weekly6 Accelerated – Threshold 2|$100,000 or more|Third working day after the end of each weekly period| |---|---|---|
+- [Source 2 | p. 104] Payroll Source Deductions Type of Remitter Thresholds1 Payment Deadline2 Quarterly3 New small employers < $1,000 and perfect compliance history 15th day of the month following the
+- [Source 3 | p. 104] hich average monthly withholding amounts fall. If, for example, this amount is $25,000 or more, then all associated corporations will be considered accelerated remitters. The Canad
+
+Citations: (p. 104)
+
+Confidence: high
+Verifier: supported_exact"
+What is the due date for monthly payroll remittances for new and regular employers?,deadline,[104],['15th day of the following month'],"[104, 104, 105, 104, 104, 105]",True,True,15th day of the following month,True,15th day of the following month,True,True,supported_exact,US,employers,payroll remittances,7,0.8111655473041535,"15th day of the following month
+
+Evidence
+- [Source 4 | p. 104] new and regular employers -> 15th day of the following month
+- [Source 4 | p. 104] yers
+< $3,000 and perfect
+compliance history
+Monthly4
+New and regular employers
+< $25,000
+15th day of the following month
+Semi-monthly5
+Accelerated – Threshold 1
+$25,000 to $99,999.99
+25th day of the same month
+10th day of the following month
+Weekly6
+
+
+Citations: (p. 104)
+
+Confidence: high
+Verifier: supported_exact"
+What is the due date for weekly payroll remittances for accelerated threshold 2 remitters?,deadline,[104],['Third working day after the end of each weekly period'],"[105, 104, 104, 104, 104, 104]",False,True,15th day of the following month,False,Third working day after the end of each weekly period,True,True,supported_exact,UK,accelerated threshold 2 remitters,payroll remittances,5,0.7013666546964645,"Third working day after the end of each weekly period
+
+Evidence
+- [Source 1 | p. 105] four times a month. The remittances must be received by the third working day after the last day of the following periods: • 1st to the 7th day of the month • 8th to the 14th day o
+- [Source 2 | p. 104] |Weekly6 Accelerated – Threshold 2|$100,000 or more|Third working day after the end of each weekly period| |---|---|---|
+- [Source 3 | p. 104] hich average monthly withholding amounts fall. If, for example, this amount is $25,000 or more, then all associated corporations will be considered accelerated remitters. The Canad
+
+Citations: (p. 104)
+
+Confidence: high
+Verifier: supported_exact"
+When are federal corporate income tax returns due after year-end?,deadline,[102],['six months after year-end'],"[102, 102, 99, 99, 102, 102]",True,True,within six months after year-end,True,within six months after year-end,True,True,supported_exact,United States,federal government,tax returns,14,0.71219,"within six months after year-end
+
+Evidence
+- [Source 1 | p. 102] federal corporate income tax returns -> within six months after year-end
+- [Source 1 | p. 102] es
+Filing Deadline
+Payment Deadline
+Federal Corporate
+income tax returns1
+Returns are due within six
+months after year-end
+The balance of taxes payable
+is due within two months after
+year-end
+For certain CCPCs, the deadline
+is extended to three months2
+
+Citations: (p. 102)
+
+Confidence: high
+Verifier: supported_exact"
+When are Quebec corporate income tax returns due after year-end?,deadline,[102],['six months after year-end'],"[102, 102, 102, 102, 102, 99]",True,True,within six months after year-end,True,within six months after year-end,True,True,supported_exact,Quebec,corporate taxpayers,tax returns deadlines,43,0.7278299777078628,"within six months after year-end
+
+Evidence
+- [Source 1 | p. 102] quebec corporate income tax returns -> within six months after year-end
+- [Source 1 | p. 102] federal corporate income tax returns -> within six months after year-end
+
+Citations: (p. 102)
+
+Confidence: high
+Verifier: supported_exact"

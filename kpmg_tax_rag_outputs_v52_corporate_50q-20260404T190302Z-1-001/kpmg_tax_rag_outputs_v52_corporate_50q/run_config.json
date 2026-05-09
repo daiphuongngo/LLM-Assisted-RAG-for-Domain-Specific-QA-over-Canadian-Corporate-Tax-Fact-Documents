@@ -1,0 +1,148 @@
+{
+  "base_dir": "/content/drive/My Drive/Colab Notebooks/Harvard/CSCI E-222 Foundations of LLM/Intelligence Copilot/KPMG/Tax Fact",
+  "public_pdf_url": null,
+  "downloaded_pdf_name": "kpmg_tax_facts_public.pdf",
+  "pdf_filename": null,
+  "pdf_search_tokens": [
+    "kpmg",
+    "tax",
+    "facts"
+  ],
+  "target_printed_page_ranges": [
+    [
+      60,
+      105
+    ]
+  ],
+  "target_printed_page_start": 60,
+  "target_printed_page_end": 105,
+  "page_anchors": [
+    [
+      60,
+      "Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC"
+    ],
+    [
+      61,
+      "Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a CCPC"
+    ],
+    [
+      64,
+      "Substantively Enacted Income Tax Rates for Income Earned by a CCPC"
+    ],
+    [
+      69,
+      "Small Business Income Thresholds for 2025 and Beyond"
+    ],
+    [
+      71,
+      "Federal and Provincial/Territorial Tax Rates for Income Earned by a General Corporation"
+    ],
+    [
+      72,
+      "Combined Federal and Provincial/Territorial Tax Rates for Income Earned by a General Corporation"
+    ],
+    [
+      74,
+      "Substantively Enacted Income Tax Rates for Income Earned by a General Corporation"
+    ],
+    [
+      78,
+      "Capital Tax Rates\u2014Financial Institutions"
+    ],
+    [
+      80,
+      "Quebec Compensation Tax for Financial Institutions"
+    ],
+    [
+      81,
+      "Federal Research and Development (R&D) Tax Incentives"
+    ],
+    [
+      84,
+      "Provincial/Territorial Research and Development (R&D) Tax Incentives"
+    ],
+    [
+      90,
+      "Net After-Tax Cost of Performing Research and Development (R&D)"
+    ],
+    [
+      98,
+      "Federal Income Tax Instalments"
+    ],
+    [
+      101,
+      "Provincial and Territorial Income Tax Instalments"
+    ],
+    [
+      102,
+      "Filing and Payment Deadlines"
+    ],
+    [
+      104,
+      "Payroll Source Deductions"
+    ],
+    [
+      108,
+      "Prescribed Interest Rates\u20142024"
+    ],
+    [
+      109,
+      "Prescribed Interest Rates\u20142025"
+    ],
+    [
+      110,
+      "Prescribed Interest Rates for Capital Taxes\u20142024"
+    ],
+    [
+      111,
+      "Prescribed Interest Rates for Capital Taxes\u20142025"
+    ],
+    [
+      112,
+      "Other Selected Federal Filing Deadlines"
+    ],
+    [
+      115,
+      "Selected Federal Penalty and Offence Provisions"
+    ],
+    [
+      118,
+      "Selected Provincial/Territorial Penalty Provisions"
+    ]
+  ],
+  "output_subdir": "kpmg_tax_rag_outputs_v52_corporate_50q",
+  "rebuild_artifacts": true,
+  "text_chunk_chars": 1100,
+  "text_chunk_overlap_chars": 120,
+  "table_chunk_chars": 1600,
+  "emit_table_full_chunks": true,
+  "emit_table_row_chunks": true,
+  "emit_heading_chunks": true,
+  "embed_model_name": "BAAI/bge-small-en-v1.5",
+  "dense_weight": 0.44,
+  "bm25_weight": 0.18,
+  "metadata_weight": 0.23,
+  "rerank_weight": 0.15,
+  "dense_top_k": 28,
+  "bm25_top_k": 28,
+  "rerank_top_k": 14,
+  "final_top_k": 6,
+  "use_reranker": true,
+  "reranker_model_name": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "llm_model_name": "Qwen/Qwen2.5-1.5B-Instruct",
+  "llm_load_in_4bit": true,
+  "use_llm_planner": true,
+  "use_llm_verifier": true,
+  "llm_max_input_tokens": 4096,
+  "planner_max_new_tokens": 160,
+  "answer_max_new_tokens": 220,
+  "verifier_max_new_tokens": 160,
+  "planner_do_sample": false,
+  "answer_do_sample": false,
+  "verifier_do_sample": false,
+  "max_candidate_values": 48,
+  "compare_against_extractive_baseline": true,
+  "save_error_examples": true,
+  "seed": 42,
+  "save_demo_questions": true
+}

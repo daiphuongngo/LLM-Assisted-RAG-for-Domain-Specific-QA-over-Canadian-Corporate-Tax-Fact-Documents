@@ -1,0 +1,10 @@
+{
+  "n_questions": 50,
+  "retrieval_hit_rate_top1": 0.98,
+  "retrieval_hit_rate_topk": 1.0,
+  "baseline_answer_hit_rate": 0.3,
+  "answer_hit_rate": 1.0,
+  "citation_hit_rate": 1.0,
+  "verifier_supported_rate": 0.08,
+  "evaluation_csv": "/content/drive/My Drive/Colab Notebooks/Harvard/CSCI E-222 Foundations of LLM/Intelligence Copilot/KPMG/Tax Fact/kpmg_tax_rag_outputs_v52_corporate_50q/evaluation_results.csv"
+}
