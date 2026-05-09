@@ -1253,5 +1253,5 @@ In tax RAG, retrieval quality and source visibility matter more than model fluen
 <a id="toc-license-and-use"></a>
 ## License and use
 
-This repository is intended for educational use in CSCI E-222 and for demonstrating a public, source-grounded RAG architecture pattern. Do not include confidential tax documents, proprietary firm code, private client data, or exposed API keys.
+My repository is intended for educational use in CSCI E-222 and for demonstrating a public, source-grounded RAG architecture pattern. Do not include confidential tax documents, proprietary firm code, private client data, or exposed API keys.
 
